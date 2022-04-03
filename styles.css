@@ -1,0 +1,8 @@
+.blm_gg {
+    display: flex;
+    background-color: rgb(12, 150, 0);
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+    box-shadow: 10px 10px 0px -2px rgb(102, 255, 88), 20px 20px 0px -4px rgb(170, 255, 163);
+}
